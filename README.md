@@ -4,7 +4,7 @@ This is the source code of our method proposed in paper "[DAGA: Data Augmentatio
 # Examples 
 ## flair\_seq\_tagger: sequense tagging model
 ```
-cd flair\_seq\_tagger;
+cd flair_seq_tagger;
 
 python train_tagger.py \
   --data_dir PATH/TO/TRAIN\_DIR \
