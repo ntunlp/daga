@@ -56,8 +56,8 @@ python generate.py \
 - line2cols.py: convert linearized sequence back to two-column format
 
 # Requirements
-flair\_seq\_tagger/requirements.txt
-lstm-lm/requirements.txt
+- flair\_seq\_tagger/requirements.txt
+- lstm-lm/requirements.txt
 
 # Citation
 Please cite our paper if you found the resources in this repository useful.
