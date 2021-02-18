@@ -1,4 +1,4 @@
-# daga
+# DAGA
 This is the source code of our method proposed in paper "[DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks](https://www.aclweb.org/anthology/2020.emnlp-main.488/)" accepted by EMNLP 2020.
 
 # Examples 
