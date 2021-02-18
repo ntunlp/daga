@@ -1,0 +1,3 @@
+torch==1.2.0
+tqdm==4.30.*
+git+https://github.com/pytorch/text.git@master#wheel=torchtext
