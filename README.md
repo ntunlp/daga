@@ -7,7 +7,7 @@ This is the source code of our method proposed in paper "[DAGA: Data Augmentatio
 cd flair_seq_tagger;
 
 python train_tagger.py \
-  --data_dir PATH/TO/TRAIN\_DIR \
+  --data_dir PATH/TO/TRAIN_DIR \
   --train_file  train.txt \
   --dev_file  dev.txt \
   --data_columns text ner \
